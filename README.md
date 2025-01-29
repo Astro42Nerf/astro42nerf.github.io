@@ -223,7 +223,7 @@ Term 2 with *inline markup*
 _Compact style:_
 
 Term 1
-  ~ Definition 1
+  ~ Definition uno
 
 Term 2
   ~ Definition 2a
